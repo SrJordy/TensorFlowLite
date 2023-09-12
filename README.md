@@ -4,8 +4,10 @@ IMPLEMENTACIÓN DE MODEL TENSOR FLOW EN APLICACION ANDROID
 
 Diseñar un Modelo de Clasificación de imágenes basado en Redes Neuronales  Convolucionales con Tensor Flow Model Maker e implementarlo en una Aplicación Móvil android para los siguientes casos prácticos
 
- ![image](https://github.com/SrJordy/TensorFlowLite/assets/120031341/ab631749-5c11-42ec-9f25-8089b7cfe2eb)
-![image](https://github.com/SrJordy/TensorFlowLite/assets/120031341/184a972a-5a97-4650-a22b-0bdc1037978b)
-![image](https://github.com/SrJordy/TensorFlowLite/assets/120031341/832c35a8-ec7a-4dbf-ae31-8fb304d8025a)
+![image](https://github.com/SrJordy/TensorFlowLite/assets/120031341/c5acad5a-a4b0-421e-84f1-73122204c748)
+
+![image](https://github.com/SrJordy/TensorFlowLite/assets/120031341/1fa23738-1cf0-4e2c-85cc-a8f6300ffdce)
+
+![image](https://github.com/SrJordy/TensorFlowLite/assets/120031341/57be09f7-6771-437f-bb99-5c3152a5b063)
 
 
