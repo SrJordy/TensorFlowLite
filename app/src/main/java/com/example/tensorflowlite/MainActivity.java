@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageView imageView;
     private Button picture, buttonGallery;
     private static final int IMAGE_SIZE = 224;
-    private static final String[] CLASSES = {"Pera", "Manzana", "Kiwi", "Fresa", "Banana"};
+    private static final String[] CLASSES = {"Jordy", "Valeska", "Michell", "Orlando", "Geovanny"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
